@@ -3,7 +3,7 @@ import Curriculo from "./components/curriculo/Curriculo";
 
 import Footer from "./components/headerEfooter/Footer";
 import Header from "./components/headerEfooter/Header";
-import Perfil from "./components/perfil/perfil";
+import Perfil from "./components/perfil/Perfil";
 
 import Sobre from "./components/sobre/Sobre";
 import Tecnologias from "./components/tecnologias/Tecnologias";
